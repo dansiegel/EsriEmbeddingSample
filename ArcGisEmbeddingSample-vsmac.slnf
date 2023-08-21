@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "ArcGisEmbeddingSample.sln",
+    "projects": [
+      "ArcGisEmbeddingSample.Mobile\\ArcGisEmbeddingSample.Mobile.csproj",
+      "ArcGisEmbeddingSample.Base\\ArcGisEmbeddingSample.Base.csproj",
+      "ArcGisEmbeddingSample\\ArcGisEmbeddingSample.csproj"
+    ]
+  }
+}

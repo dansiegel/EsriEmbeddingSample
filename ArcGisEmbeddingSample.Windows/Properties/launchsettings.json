@@ -1,0 +1,10 @@
+{
+  "profiles": {
+	"ArcGisEmbeddingSample.Windows (Package)": {
+	  "commandName": "MsixPackage"
+	},
+	"ArcGisEmbeddingSample.Windows (Unpackaged)": {
+	  "commandName": "Project"
+	}
+  }
+}
